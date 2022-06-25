@@ -90,7 +90,7 @@
     "url": "https://github.com/heroku/heroku-buildpack-nodejs"
   },{
     "url": "heroku/python"
-  }],
+  }]
   },
   "stack": "heroku-22"
 }
